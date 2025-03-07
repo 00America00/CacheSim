@@ -1,4 +1,5 @@
-                  Cache Simulator using Python
+Cache Simulator using Python
+
 Rough Draft Final Project for Computer Architecture.
 A Cache Simulator coded in Python that takes in cmd line arguments and then calculates 
 cache values such as tag, index, offset and then creates a simulated cache. Lastly values 
